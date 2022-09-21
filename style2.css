@@ -134,9 +134,8 @@ li{
     height:40px;
     line-height: 40px;
     width: 100%;
-    background-color: white;
+    background-color: rgb（255,255,255,0.5）;
     color: black;
-    opacity: 0.6;
 }
 
 /* size 600-1200 */
